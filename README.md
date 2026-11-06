@@ -1,4 +1,4 @@
-readme = r'''<div align="center">
+<div align="center">
 
 # 📄 DocuQuery AI
 
@@ -610,7 +610,5 @@ AI & Data Science Engineering · AI/ML Projects
 ⭐ If you find this project interesting, consider giving the repository a star.
 
 </div>
-'''
-out="/mnt/data/README_DocuQuery_AI.md"
-with open(out,"w",encoding="utf-8") as f: f.write(readme)
-print(out, len(readme))
+
+
